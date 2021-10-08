@@ -1,0 +1,258 @@
+{
+    "EC":{
+      "name":"ECoin",
+      "increasedecrease":"+1.00",
+      "description":"A basic crypto",
+      "price":"2.00",
+      "type": "ecoins"
+    },
+    "BC":{
+      "name":"BotCoin",
+      "increasedecrease":"0.01",
+      "description":"Another basic crypto",
+      "price":"0.51",
+      "type": "bcoins"
+    },
+    "SPDR":{
+      "name":"S&P500",
+      "increasedecrease":"+0.00",
+      "description":"The S&P 500, or simply the S&P, is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices.",
+      "type":"ownedStocks",
+      "price":"184.27"
+    },
+    "DISC":{
+      "name":"Discord",
+      "increasedecrease":"-5.00",
+      "description":"Discord is a proprietary freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses. Discord specializes in text, image, video and audio communication between users in a chat channel.",
+      "price":"3.40",
+      "image":"https://mk0droplrg5q83m5xg0r.kinstacdn.com/wp-content/uploads/2020/06/iconfinder_discord_2308078-512x400.png",
+      "type": "ownedStocks",
+      "option1price":"5.00",
+      "option1strike":"20.00",
+      "option1expire":"9/5/2020",
+      "option1increasedecrease":"-5.00"
+      
+    },
+    "NINT":{
+      "name":"Nintendo",
+      "increasedecrease":"+3.10",
+      "description":"Nintendo Co., Ltd. is a Japanese multinational consumer electronics and video game company headquartered in Kyoto.",
+      "price":"29.00",
+      "image":"https://images.nintendolife.com/c9e51688f744b/nintendo-logo.original.jpg",
+      "type": "ownedStocks"
+    },
+    "GOOGL":{
+      "name":"Google",
+      "increasedecrease":"+0.20",
+      "description":"Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware.",
+      "price":"86.85",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png",
+      "type": "ownedStocks"
+    },
+    "ASUS":{
+      "name":"Asus",
+      "increasedecrease":"+1.00",
+      "description":"AsusTek Computer Inc. is a Taiwanese multinational computer and phone hardware and electronics company headquartered in Beitou District, Taipei, Taiwan.",
+      "price":"24.51",
+      "image":"https://miro.medium.com/max/7018/1*NwfoiV9f96_MhpmJwdinPA.png",
+      "type": "ownedStocks"
+    },
+    "RAZR":{
+      "name":"Razer",
+      "increasedecrease":"-2.00",
+      "description":"Razer Inc. is a global gaming hardware manufacturing company, esports and financial services provider established by Min-Liang Tan and Robert Krakoff. The company is currently headquartered in Irvine, California and Singapore.",
+      "price":"21.80",
+      "image":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/90758454_10159707225992576_1772984004690051072_n.png",
+      "type": "ownedStocks"
+    },
+    "ACR":{
+      "name":"Acer",
+      "increasedecrease":"+0.00",
+      "description":"Acer Inc. is a Taiwanese multinational hardware and electronics corporation specializing in advanced electronics technology, headquartered in Xizhi, New Taipei City.",
+      "price":"16.01",
+      "image":"https://i.ytimg.com/vi/zNuARfhntk8/maxresdefault.jpg",
+      "type": "ownedStocks"
+    },
+    "LAYS":{
+      "name":"Lays",
+      "increasedecrease":"+0.00",
+      "description":"Lay's is a brand of potato chip varieties, as well as the name of the company that founded the chip brand in Canada.",
+      "price":"19.00",
+      "image":"https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Lay%E2%80%99s_Chips_2019_Logo.png/220px-Lay%E2%80%99s_Chips_2019_Logo.png",
+      "type": "ownedStocks"
+    },
+    "FORD":{
+      "name":"Ford",
+      "increasedecrease":"+3.00",
+      "description":"Ford Motor Company, commonly known as Ford, is an American multinational automaker that has its main headquarters in Dearborn, Michigan.",
+      "price":"17.70",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQakf3lvYro4NHxmgpwiNH12T1pMH4bh67N3g&usqp=CAU",
+      "type": "ownedStocks"
+    },
+    "CHV":{
+      "name":"Chevy",
+      "increasedecrease":"+1.00",
+      "description":"Chevrolet, colloquially referred to as Chevy and formally the Chevrolet Division of General Motors Company, is an American automobile division of the American manufacturer General Motors.",
+      "price":"4.99",
+      "image":"https://pbs.twimg.com/profile_images/991349365787643904/SJ9o5qJT.jpg",
+      "type": "ownedStocks"
+    },
+    "NASA":{
+        "name":"NASA",
+        "increasedecrease":"-0.03",
+        "description":"The National Aeronautics and Space Administration is an independent agency of the U.S. Federal Government responsible for the civilian space program, as well as aeronautics and space research.",
+        "price":"24.41",
+        "image":"https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200807181723-spacex-falcon-9-launch-restricted.jpg",
+        "type": "ownedStocks"
+    },
+    "SPX":{
+        "name":"Space X",
+        "increasedecrease":"+0.30",
+        "description":"Space Exploration Technologies Corp., trading as SpaceX, is an American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California.",
+        "price":"27.90",
+        "image":"https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/29090066_159271188110124_1152068159029641216_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=exqtUwuLhzsAX_Z0blW&oh=0644e0234ca73a02239d02b3d5b66ef5&oe=5F665163",
+        "type": "ownedStocks"
+    },
+    "NSANY":{
+        "name":"Nissan",
+        "increasedecrease":"+2.20",
+        "description":"The Nissan Motor Company, Ltd. trading as the Nissan Motor Corporation and usually shortened to Nissan, is a Japanese multinational automobile manufacturer headquartered in Nishi-ku.",
+        "price":"8.20",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nissan-logo.svg/557px-Nissan-logo.svg.png",
+        "type": "ownedStocks"
+    },
+    "MMTOF":{
+        "name":"Mitsubishi Motors",
+        "increasedecrease":"+1.00",
+        "description":"Mitsubishi Motors Corporation is a Japanese multinational automotive manufacturer headquartered in Minato, Tokyo, Japan.",
+        "price":"7.00",
+        "image":"https://www.miamilakesautomall.com/mitsubishi-blog/wp-content/uploads/sites/87/2018/02/miami-lakes-mitsubishi-origin-feature.png",
+        "type":"ownedStocks"
+
+    },
+    "COKE":{
+        "name":"Coca-Cola",
+        "increasedecrease":"-20.00",
+        "description":"The Coca-Cola Company is an American multinational beverage corporation headquartered in Atlanta, Georgia. The Coca-Cola Company has interests in the manufacturing, retailing and marketing of nonalcoholic beverage concentrates and syrups.",
+        "price":"100.00",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/640px-Coca-Cola_logo.svg.png",
+        "type":"ownedStocks"
+    },
+    "ASM":{
+      "name":"Aston Martin Motors",
+      "increasedecrease":"+1.00",
+      "description":"Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers.",
+      "price":"7.00",
+      "image":"https://upload.wikimedia.org/wikipedia/en/b/bd/Aston_Martin_Lagonda_brand_logo.png",
+      "type":"ownedStocks"
+    },
+    "MARVL":{
+      "name":"Marvel Studios",
+      "increasedecrease":"+2.00",
+      "description":"Marvel Studios, LLC is an American film and television studio that is a subsidiary of The Walt Disney Studios.",
+      "price":"18.00",
+      "image":"https://sir.wdwnt.com/wdwnt.com/2019/11/marvelstudios-2016logo-700x350.jpg",
+      "type":"ownedStocks"
+    },
+    "Freddit":{
+        "Name":"Freddit",
+        "Description":"Gives you the ability to post memes."
+    },
+    "Mustang":{
+        "Name":"1969 Ford Mustang Boss",
+        "Price":"3000",
+        "Image":"https://static.summitracing.com/global/images/prod/xlarge/sum-csumfffm22_xl.jpg",
+        "Maxspeed":"188",
+        "type": "cars"
+    },
+    "F-150":{
+        "Name":"1989 Ford F-150",
+        "Price":"1000",
+        "Image":"https://www.blueovaltech.com/history/images/80/1989-f150-red-longbox.jpg",
+        "Maxspeed":"166",
+        "type": "cars"
+    },
+    "Thunderbird":{
+        "Name":"1962 Ford Thunderbird",
+        "Price":"2000",
+        "Image":"https://bringatrailer.com/wp-content/uploads/2019/07/1962_ford_thunderbird_156537935740810bf523f24deee11962_ford_thunderbird_156277611195d565ef66e7dPhoto-May-14-9-59-55-PM-e1565380625465.jpg?fit=940%2C564",
+        "Maxspeed":"177",
+        "type": "cars"
+
+    },
+    "Impala":{
+        "Name":"1965 Chevy Impala",
+        "Price":"500",
+        "Image":"https://bringatrailer.com/wp-content/uploads/2015/01/1965-Chevrolet-Impala-Front.jpg?fit=940%2C626",
+        "Maxspeed":"155",
+        "type": "cars"
+
+    },
+    "Silverado":{
+        "Name":"1970 Chevy Silverado",
+        "Price":"1500",
+        "Image":"https://cdn02.carsforsale.com/3/203698/19068829/thumb/1095315657.jpg",
+        "Maxspeed":"166",
+        "type": "cars"
+    },
+    "Nissan240SX":{
+        "MaxSpeed":"188",
+        "Price":"3000",
+        "Name":"1996 Nissan 240SX",
+        "Image":"https://vignette.wikia.nocookie.net/gran-turismo/images/b/b9/Nissan_240SX_%2796.jpg/revision/latest?cb=20181024191312",
+        "type": "cars"
+    },
+    "Bronco":{
+        "Maxspeed":"155",
+        "Price":"1300",
+        "Name":"1996 Ford Bronco",
+        "Image":"https://media.ed.edmunds-media.com/ford/bronco/1996/oem/1996_ford_bronco_2dr-suv_xlt_fq_oem_1_500.jpg",
+        "type": "cars"
+
+    },
+    "R31":{
+        "Maxspeed":"188",
+        "Price":"5000",
+        "Name":"1957 Nissan Skyline R31",
+        "Image":"https://i.ebayimg.com/images/g/mg4AAOSwRYReg-CH/s-l300.jpg",
+        "type":"cars"
+    },
+    "Eclipse":{
+        "Maxspeed":"177",
+        "Price":"2300",
+        "Name":"1995 Mitsubishi Eclipse",
+        "Image":"https://carscoms.com/img/1995-mitsubishi-eclipse-mitsubishi-eclipse-gsx-163612225140/0.jpg",
+        "type":"cars"
+    },
+    "DB7":{
+      "Maxspeed":"188",
+      "Price":"40000",
+      "Name":"2001 Aston Martin DB7",
+      "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Aston_Martin_DB7_V12_Vantage_-_Flickr_-_The_Car_Spy_%282%29.jpg/1200px-Aston_Martin_DB7_V12_Vantage_-_Flickr_-_The_Car_Spy_%282%29.jpg",
+      "type":"cars"
+    },
+    "Cobra":{
+      "Maxspeed":"188",
+      "Price":"30000",
+      "Name":"1998 Mustang Cobra",
+      "Image":"https://bringatrailer.com/wp-content/uploads/2018/11/1998_ford_mustang_svt_cobra_15424917678764da87F01B61-0209-4828-94C7-5DB8BCB2B458.jpeg?fit=940%2C626",
+      "type":"cars"
+    },
+    "SmallHouse":{
+        "Name":"SmallHouse",
+        "type": "ownedProperties",
+        "rent":"500",
+        "price":"1000"
+    },
+    "Zenfone1":{
+        "Name":"Zenfone 1",
+        "price":"70",
+
+        "type":"phones"
+    },
+    "GoogleNexus":{
+        "Name":"Google Nexus",
+        "price":"50",
+        "type":"phones"
+    }
+}

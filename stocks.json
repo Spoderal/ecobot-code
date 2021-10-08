@@ -1,0 +1,89 @@
+{
+    "Stocks": {
+        "DISC": {
+            "name":"Discord",
+            "increasedecrease":"+0.50",
+            "description":"A small chatting platform startup",
+            "price":"11.80",
+            "image":"https://mk0droplrg5q83m5xg0r.kinstacdn.com/wp-content/uploads/2020/06/iconfinder_discord_2308078-512x400.png"
+        },
+        "NINT": {
+            "name":"Nintendo",
+            "increasedecrease":"+0.10",
+            "description":"A small game company",
+            "price":"31.90",
+            "image":"https://images.nintendolife.com/c9e51688f744b/nintendo-logo.original.jpg"
+        },
+        "GOOGL": {
+            "name":"Google",
+            "increasedecrease":"+0.20",
+            "description":"A small internet startup",
+            "price":"85.95",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"
+        },
+        "ASUS":{
+            "name":"Asus",
+            "increasedecrease":"+1.00",
+            "description":"A small computer parts startup",
+            "price":"19.51",
+            "image":"https://miro.medium.com/max/7018/1*NwfoiV9f96_MhpmJwdinPA.png"
+        },
+        "RAZR":{
+            "name":"Razer",
+            "increasedecrease":"+3.00",
+            "description":"A small computer manufacturer  startup",
+            "price":"23.80",
+            "image":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/90758454_10159707225992576_1772984004690051072_n.png"
+        },
+        "ACR":{
+            "name":"Acer",
+            "increasedecrease":"+0.00",
+            "description":"A small computer parts startup",
+            "price":"15.51",
+            "image":"https://i.ytimg.com/vi/zNuARfhntk8/maxresdefault.jpg"
+        },
+        "LAYS":{
+            "name":"Lays",
+            "increasedecrease":"+2.00",
+            "description":"A small chips company",
+            "price":"10.80",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Lay%E2%80%99s_Chips_2019_Logo.png/220px-Lay%E2%80%99s_Chips_2019_Logo.png"
+        },
+        "FORD":{
+            "name":"Ford",
+            "increasedecrease":"+0.30",
+            "description":"A small car company",
+            "price":"1.50",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQakf3lvYro4NHxmgpwiNH12T1pMH4bh67N3g&usqp=CAU"
+        },
+        "CHV":{
+            "name":"Chevy",
+            "increasedecrease":"+0.20",
+            "description":"Another small car company",
+            "price":"1.30",
+            "image":"https://pbs.twimg.com/profile_images/991349365787643904/SJ9o5qJT.jpg"
+        },
+        "NASA":{
+            "name":"NASA",
+            "increasedecrease":"+0.03",
+            "description":"A small space exploration company",
+            "price":"24.36",
+            "image":"https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200807181723-spacex-falcon-9-launch-restricted.jpg"
+        },
+        "SPX":{
+            "name":"Space X",
+            "increasedecrease":"+0.00",
+            "description":"Another small space exploration company",
+            "price":"26.30",
+            "image":"https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/29090066_159271188110124_1152068159029641216_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=exqtUwuLhzsAX_Z0blW&oh=0644e0234ca73a02239d02b3d5b66ef5&oe=5F665163"
+        },
+        "NSANY":{
+            "name":"Nissan",
+            "increasedecrease":"+0.20",
+            "description":"The Nissan Motor Company, Ltd. trading as the Nissan Motor Corporation and usually shortened to Nissan, is a Japanese multinational automobile manufacturer headquartered in Nishi-ku.",
+            "price":"1.40",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nissan-logo.svg/557px-Nissan-logo.svg.png"
+        }
+    }
+
+}

@@ -1,0 +1,11 @@
+{
+    "Properties":{
+        "Houses":{
+            "SmallHouse":{
+                "price":"10000",
+                "name":"Small House$",
+                "rent":"500"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Crypto": {
+        "EC":{
+            "name":"ECoin",
+            "increasedecrease":"+1.00",
+            "description":"A basic crypto",
+            "price":"2.00"
+        },
+
+        "BC":{
+            "name":"BotCoin",
+            "increasedecrease":"0.01",
+            "description":"Another basic crypto",
+            "price":"0.51"
+        }
+    }
+}
